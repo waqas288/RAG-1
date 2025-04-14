@@ -116,4 +116,3 @@ MIT License
 
 ---
 
-Let me know if you want a version with file upload or multi-PDF support added!
